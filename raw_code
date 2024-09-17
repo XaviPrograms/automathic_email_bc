@@ -1,1 +1,2 @@
 import smtplib
+my_email=comercial.cat@bio-circle.es
